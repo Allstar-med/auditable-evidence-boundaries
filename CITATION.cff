@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this archive, please cite this software release."
-title: "Auditable Evidence Boundaries for Validation of Surgical Artificial Intelligence: Reproducibility Archive"
+title: "Auditable Evidence Boundaries in Surgical Model Validation: Code and Reference Tables"
 version: 1.0.0
 date-released: 2026-10-01
 license: MIT

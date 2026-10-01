@@ -12,5 +12,5 @@
     "audit_version",
     "manifest_checksum"
   ],
-  "privacy": "Do not publish direct patient identifiers or raw clinical images."
+  "privacy": "Keep patient identifiers and clinical images out of public manifests."
 }

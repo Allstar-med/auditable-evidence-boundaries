@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Validation Evidence Auditor.
-Reconstructed executable implementation from the frozen study protocol.
-It does NOT contain raw clinical data and does NOT reproduce patient-identifying records.
+"""Check split identities and exact file hashes in a CSV manifest.
+
+Written from the recorded study methods; the original source file was unavailable.
+No clinical records are included in this script.
 """
 from __future__ import annotations
 import argparse, hashlib, json, re

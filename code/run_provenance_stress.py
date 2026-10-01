@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Write the analytic provenance-retention reference (not clinical results)."""
+"""Generate the arithmetic reference table for missing provenance fields."""
 
 import csv
 

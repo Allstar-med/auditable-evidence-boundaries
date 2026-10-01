@@ -1,6 +1,6 @@
 {
   "archive_version": "1.0",
-  "study_title": "Auditable Evidence Boundaries for Validation of Surgical Artificial Intelligence",
+  "study_title": "Auditable Evidence Boundaries in Surgical Model Validation",
   "local_manifest_records": 781,
   "local_unique_sha256": 476,
   "duplicate_records": 305,
@@ -22,5 +22,5 @@
   "repair2_accuracy": 0.758,
   "descriptive_accuracy_difference_percentage_points": 23.2,
   "controlled_verification_replicates_per_level": 500,
-  "note": "The 99.0%-to-75.8% contrast is descriptive, not causal."
+  "note": "The 99.0%-to-75.8% difference describes two splits; it does not establish a causal effect."
 }

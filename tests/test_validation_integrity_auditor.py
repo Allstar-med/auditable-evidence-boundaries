@@ -1,4 +1,4 @@
-"""Regression tests for the reconstructed validation evidence auditor."""
+"""Tests for the manifest checker."""
 
 import sys
 import unittest
