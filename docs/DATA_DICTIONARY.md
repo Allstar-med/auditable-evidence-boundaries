@@ -1,0 +1,11 @@
+# Data dictionary
+- sample_id: stable sample identifier
+- clinical_unit_id: patient/procedure/video unit selected for separation
+- sha256: exact-content digest
+- split: train/validation/test role
+- label_*: prespecified endpoint labels
+- source_position: timestamp or ordered frame index
+- source_prefix: nominal provenance/source label; not assumed to be a patient identifier
+- audit_version: code/protocol version
+- manifest_checksum: digest binding an audit to a frozen manifest
+- cross_split_hash_groups: exact-content hashes occurring in more than one split

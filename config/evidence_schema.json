@@ -1,0 +1,16 @@
+{
+  "required": [
+    "sample_id",
+    "clinical_unit_id",
+    "sha256",
+    "split"
+  ],
+  "recommended": [
+    "label_*",
+    "source_position",
+    "source_prefix",
+    "audit_version",
+    "manifest_checksum"
+  ],
+  "privacy": "Do not publish direct patient identifiers or raw clinical images."
+}

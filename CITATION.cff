@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite this software release."
+title: "Auditable Evidence Boundaries for Validation of Surgical Artificial Intelligence: Reproducibility Archive"
+version: 1.0.0
+date-released: 2026-10-01
+license: MIT
+repository-code: "https://github.com/Allstar-med/auditable-evidence-boundaries"
+authors:
+  - family-names: Zhu
+    given-names: Hui
+  - family-names: Zhu
+    given-names: Congbin
+  - family-names: Zhu
+    given-names: Huiying

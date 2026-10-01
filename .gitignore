@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+/example_audit.json
+/example_audit_check.json
